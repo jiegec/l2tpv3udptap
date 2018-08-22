@@ -1,8 +1,8 @@
 # Copyright (C) 2018 Jiajie Chen
 # 
-# This file is part of l2tpv3udpmac.
+# This file is part of l2tpv3udptap.
 # 
-# l2tpv3udpmac is free software: you can redistribute it and/or modify
+# l2tpv3udptap is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
@@ -17,7 +17,7 @@
 # 
 
 cmake_minimum_required(VERSION 3.8)
-project(l2tpv3udpmac)
+project(l2tpv3udptap)
 
-add_executable(l2tpv3udpmac main.cpp)
-target_compile_features(l2tpv3udpmac PRIVATE cxx_std_11)
+add_executable(l2tpv3udptap main.cpp)
+target_compile_features(l2tpv3udptap PRIVATE cxx_std_11)
