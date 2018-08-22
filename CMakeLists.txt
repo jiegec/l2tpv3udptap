@@ -7,13 +7,13 @@
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
 # 
-# l2tpv3udpmac is distributed in the hope that it will be useful,
+# l2tpv3udptap is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 # 
 # You should have received a copy of the GNU General Public License
-# along with l2tpv3udpmac.  If not, see <http:#www.gnu.org/licenses/>.
+# along with l2tpv3udptap.  If not, see <http:#www.gnu.org/licenses/>.
 # 
 
 cmake_minimum_required(VERSION 3.8)
